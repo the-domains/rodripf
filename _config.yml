@@ -1,0 +1,14 @@
+layout_spectrum: 0.3790479954332113
+typography_spectrum: 0.2678842479363084
+color:
+  brandStrength: 0.040205854922533035
+  lightness: 0.7291684015654027
+  saturation: 0.7026495123282075
+  rhythmicContrast: 0.7406421874184161
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: rodripf
