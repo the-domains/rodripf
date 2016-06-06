@@ -64,10 +64,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=hxUAntt1z2c'
 title: 'Last Week Tonight with John Oliver: Debt Buyers (HBO)'
-datePublished: '2016-06-06T20:23:46.823Z'
-dateModified: '2016-06-06T20:23:46.305Z'
+datePublished: '2016-06-06T20:23:40.736Z'
+dateModified: '2016-06-06T20:23:31.383Z'
+starred: false
 sourcePath: _posts/2016-06-06-last-week-tonight-with-john-oliver-debt-buyers-hbo.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
